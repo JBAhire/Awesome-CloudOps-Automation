@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/unskript/Awesome-CloudOps-Automation">
-    <img src="https://i.ibb.co/s6RD5zS/logo-runbooks-4.png" alt="Logo" width="100" height="100">
+    <img src="https://i.ibb.co/s6RD5zS/logo-runbooks-4.png" alt="Logo" width="180" height="180">
   </a>
 <p align="center">
   <h3 align="center">Runbooks.sh</h3>
@@ -74,11 +74,7 @@ Dive deeper into Awesome-CloudOps-Automation by visiting our comprehensive docum
 We welcome contributions from developers of all skill levels! Check out our [Contribution Guidelines](.github/CONTRIBUTING.md) to learn how you can contribute to Awesome-CloudOps-Automation.
 
 ## 📖 License
-Except as otherwise noted **Runbooks.sh** is licensed under the `Apache License, Version 2.0` .
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 .
-
-Unless required by applicable law or agreed to in writing, project distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+Except as otherwise noted **Runbooks.sh** is licensed under the *[Apache License, Version 2.0](/License)* .
 
 ## 🌐 Join Our Community
 Connect with other **Runbooks.sh** users and contributors by joining our [Slack workspace](https://communityinviter.com/apps/cloud-ops-community/awesome-cloud-automation). Share your experiences, ask questions, and collaborate on this exciting project!
