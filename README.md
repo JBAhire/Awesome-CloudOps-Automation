@@ -29,8 +29,15 @@
 </p>
 
 
+# About the Project
 
-Runbooks.sh is a powerful, community-driven, open-source runbook automation platform designed to simplify cloud infrastructure management and streamline operations across diverse environments.
+Runbooks.sh is a powerful, community-driven, open-source runbook automation platform designed to simplify cloud infrastructure management and streamline operations across diverse environments. Few of the highlighting features of Runbooks.sh are as follows:
+
+- *Extensive Library*: Access hundreds of pre-built actions and runbooks to kickstart your automation journey.
+- *Customization*: Create and modify actions and runbooks tailored to your unique requirements.
+- *Diverse Compatibility*: Seamlessly integrate with various cloud providers, platforms, and tools.
+- *User-friendly Interface*: A Jupyter-based environment that simplifies runbook creation and execution.
+- *Active Community*: Join a vibrant community of users and contributors committed to improving the project.
 
 ## Mission
 Our mission is to simplify CloudOps automation for DevOps and SRE teams by providing an extensive, community-driven repository of actions and runbooks that streamline day-to-day operations. 
