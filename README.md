@@ -31,7 +31,7 @@
 
 # About the Project
 
-Runbooks.sh is a powerful, community-driven, open-source runbook automation platform designed to simplify cloud infrastructure management and streamline operations across diverse environments. Few of the highlighting features of Runbooks.sh are as follows:
+Runbooks.sh is a powerful, community-driven, open-source runbook automation platform designed to simplify cloud infrastructure management and streamline operations across diverse environments. Few of the highlighting features of Runbooks.sh are:
 
 - **Extensive Library**: Access hundreds of pre-built actions and runbooks to kickstart your automation journey.
 - **Customization**: Create and modify actions and runbooks tailored to your unique requirements.
