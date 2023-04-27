@@ -67,7 +67,7 @@ docker run -it -p 8888:8888 \
  --user root \
  docker.io/unskript/awesome-runbooks:latest
 ```
-3. Access your Runbooks.sh install at http://127.0.0.1:8888/lab/tree/Welcome.ipynb.
+3. Access *Runbooks.sh* at http://127.0.0.1:8888/lab/tree/Welcome.ipynb.
 
 ### Messing around
 You can find more information around how to use and play with Runbooks.sh in the documentation here. You can find a list of all the runbooks along with links in the [repository page](/xrunbooks-directory.md) or simply use [unSkript CLI](unskript-ctl/README.md). 
