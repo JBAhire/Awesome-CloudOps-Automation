@@ -55,13 +55,13 @@ We recommend using our docker setup which comes with Jupyter runtime along with 
 
 ```
 git clone https://github.com/unskript/Runbooks.sh
-cd Awesome-CloudOps-Automation
+cd Runbooks.sh
 ```
 2. Launch Docker (update the first -v line if you used a different directory in step 1).
 
 ```
 docker run -it -p 8888:8888 \
- -v $HOME/Awesome-CloudOps-Automation/custom:/data \
+ -v $HOME/Runbooks.sh/custom:/data \
  -v $HOME/.unskript:/unskript \
  -e ACA_AWESOME_MODE=1 \
  --user root \
@@ -70,13 +70,13 @@ docker run -it -p 8888:8888 \
 3. Access your Runbooks.sh install at http://127.0.0.1:8888/lab/tree/Welcome.ipynb.
 
 ### Messing around
-You can find more information around how to use and play with Runbooks.sh in the documentation here. You can find a list of all the runbooks along with links in the repository page or simply use Unskript CLI. 
+You can find more information around how to use and play with Runbooks.sh in the documentation here. You can find a list of all the runbooks along with links in the [repository page](/xrunbooks-directory.md) or simply use [unSkript CLI](unskript-ctl/README.md). 
 
 ## 📚 Documentation
-Dive deeper into Awesome-CloudOps-Automation by visiting our comprehensive documentation. Here, you'll find everything you need to know about using the platform, creating custom runbooks, developing plugins, and much more.
+Dive deeper into Runbooks.sh by visiting our comprehensive documentation. Here, you'll find everything you need to know about using the platform, creating custom runbooks, developing plugins, and much more.
 
 ## 🤝 Contributing
-We welcome contributions from developers of all skill levels! Check out our [Contribution Guidelines](.github/CONTRIBUTING.md) to learn how you can contribute to Awesome-CloudOps-Automation.
+We welcome contributions from developers of all skill levels! Check out our [Contribution Guidelines](.github/CONTRIBUTING.md) to learn how you can contribute to *Runbooks.sh*.
 
 ## 📖 License
 Except as otherwise noted **Runbooks.sh** is licensed under the *[Apache License, Version 2.0](/License)* .
@@ -87,7 +87,7 @@ Connect with other **Runbooks.sh** users and contributors by joining our [Slack 
 ## 📣 Stay Informed
 Keep up-to-date with the latest news, updates, and announcements by following us on Twitter and Linkedin.
 
-Together, let's make Awesome-CloudOps-Automation the go-to solution for runbook automation and cloud infrastructure management!
+Together, let's make Runbooks.sh the go-to solution for runbook automation and cloud infrastructure management!
 
 
 
