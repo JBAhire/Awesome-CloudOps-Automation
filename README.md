@@ -4,7 +4,6 @@
 [![Issues][issues-shield]][issues-url]
 [![Twitter][twitter-shield]][twitter-url]
 ![Actions][actions-shield]
-![Runbooks][runbooks-shield]
 
 # About the Project
 
