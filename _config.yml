@@ -1,4 +1,4 @@
-theme: minima
+remote-theme: pages-themes/minimal@v0.2.0
 logo: https://i.ibb.co/s6RD5zS/logo-runbooks-4.png
 show_downloads: true
 plugins:
