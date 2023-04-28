@@ -5,6 +5,8 @@
 [![Twitter][twitter-shield]][twitter-url]
 ![Actions][actions-shield]
 
+<img src="https://i.ibb.co/s6RD5zS/logo-runbooks-4.png" alt="Logo" width="180" height="180">
+
 # About the Project
 
 Runbooks.sh is a powerful, community-driven, open-source runbook automation platform designed to simplify cloud infrastructure management and streamline operations across diverse environments. Few of the highlighting features of Runbooks.sh are:
