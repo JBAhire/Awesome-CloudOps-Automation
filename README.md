@@ -6,10 +6,10 @@
 ![Actions][actions-shield]
 
 
-<img src="https://i.ibb.co/s6RD5zS/logo-runbooks-4.png" alt="Logo" align="right" width="180" height="180" />
+<img src="https://i.ibb.co/s6RD5zS/logo-runbooks-4.png" alt="Logo" align="right" width="230" height="230" />
 
 # Runbooks.sh
-## Empowering Cloud Automation, Together
+### Empowering Cloud Automation, Together
 
 #### **[Explore our docs](docs.unskript.com)**
 
