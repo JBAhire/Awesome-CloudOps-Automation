@@ -1,11 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Twitter][twitter-shield]][twitter-url]
-![Actions][actions-shield]
-![Runbooks][runbooks-shield]
-
 <p align="center">
   <a href="https://github.com/unskript/Awesome-CloudOps-Automation">
     <img src="https://i.ibb.co/s6RD5zS/logo-runbooks-4.png" alt="Logo" width="180" height="180">
@@ -25,6 +17,14 @@
     <a href="https://github.com/unskript/Awesome-CloudOps-Automation/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
   </p>
 </p>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Twitter][twitter-shield]][twitter-url]
+![Actions][actions-shield]
+![Runbooks][runbooks-shield]
 
 # About the Project
 
