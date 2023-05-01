@@ -1,5 +1,7 @@
 remote-theme: pages-themes/minimal@v0.2.0
+title: Runbooks.sh
 logo: https://i.ibb.co/s6RD5zS/logo-runbooks-4.png
+description: Empowering Cloud Automation, Together.
 show_downloads: true
 plugins:
   - jekyll-relative-links
